@@ -54,6 +54,17 @@
       --color-button-accent-hover: 0, 185, 255;
       --color-button-muted: 249, 239, 6;
     }
+    [data-theme="purple"] {
+      --color-text-base: 40, 28, 65;
+      --color-text-muted: 110, 95, 125;
+      --color-text-inverted: 245, 245, 255;
+      --color-fill: 240, 228, 255;
+      --muted: 210, 190, 230;
+      --color: 168, 85, 247;
+      --color-button-accent: 168, 85, 247;
+      --color-button-accent-hover: 148, 64, 227;
+      --color-button-muted: 230, 210, 250;
+    }
   }
   .dark {
     --color-text-base: 255, 255, 255;
@@ -85,7 +96,7 @@
       --color: 248, 113, 113;
       --color-button-accent: 248, 113, 113;
       --color-button-accent-hover: 220, 50, 70;
-      --color-button-muted: 120, 113, 108; 
+      --color-button-muted: 120, 113, 108;
     }
     [data-theme="green"] {
       --color-text-base: 230, 230, 230;
@@ -109,4 +120,16 @@
       --color-button-accent-hover: 0, 185, 255;
       --color-button-muted: 25, 81, 86;
     }
+    [data-theme="purple"] {
+      --color-text-base: 230, 220, 250;
+      --color-text-muted: 140, 110, 160;
+      --color-text-inverted: 255, 255, 255;
+      --color-fill: 28, 18, 50;
+      --muted: 55, 35, 85;
+      --color: 191, 90, 242;
+      --color-button-accent: 191, 90, 242;
+      --color-button-accent-hover: 160, 70, 212;
+      --color-button-muted: 45, 25, 65;
+    }
+  }
 }

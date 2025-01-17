@@ -1,209 +1,184 @@
 {
   "basics": {
-    "name": "John Doe",
-    "label": "Junior Full Stack Developer",
+    "name": "Ruslan Nasyrov",
+    "label": "Full Stack Developer",
     "image": "/me_avatar.jpg",
-    "email": "john.doe@example.com",
-    "phone": "+1 555-555-5555",
-    "url": "https://johndoe.dev",
-    "summary": "Junior Full Stack Developer with a passion for building web applications. Currently seeking opportunities to further develop my skills in a professional setting.",
-    "theme": "default",
+    "email": "hi@nasyrov.dev",
+    "phone": "",
+    "url": "https://nasyrov.dev",
+    "summary": "Professional software developer with a strong focus on full-stack development. Skilled in TypeScript, React, and Tailwind. Passionate about creating user-friendly and efficient web applications.",
+    "theme": "blue",
     "location": {
       "address": "",
       "postalCode": "10001",
-      "city": "Auckland",
+      "city": "Ekaterinburg",
       "countryCode": "NZ",
-      "region": "New Zealand"
+      "region": "Russia"
     },
     "profiles": [
       {
-        "network": "LinkedIn",
-        "username": "john-doe",
-        "url": "https://linkedin.com/in/john-doe"
-      },
-      {
         "network": "X",
-        "username": "john-doe",
-        "url": "https://x.com/john-doe"
+        "username": "goququ",
+        "url": "https://x.com/goququ"
       },
       {
         "network": "GitHub",
-        "username": "johndoe",
-        "url": "https://github.com/johndoe"
+        "username": "goququ",
+        "url": "https://github.com/goququ"
       }
     ]
   },
   "work": [
     {
-      "name": "Tech Startup",
-      "position": "Junior Web Developer",
-      "location_type": "On site",
-      "location": "Auckland, New Zealand",
-      "url": "https://techstartup.com",
-      "startDate": "2024-01-01",
+      "name": "X5 Tech",
+      "position": "Full Stack Developer",
+      "location_type": "Remote",
+      "location": "Ekaterinburg, Russia",
+      "url": "https://x5-tech.ru",
+      "startDate": "2021-08-01",
       "endDate": null,
-      "summary": "Developing and maintaining web applications using JavaScript, HTML, and CSS. Collaborating with the team to implement new features and fix bugs.",
+      "summary": "Developed a Backstage-based IDP for 10,000+ developers, cut project setup time to 2 hours, led a team, and delivered complex projects independently.",
       "highlights": [
         "Improved website performance by optimizing code"
       ],
       "responsibilities": [
-        "Collaborated with senior developers to design and implement web applications using modern JavaScript frameworks.",
-        "Assisted in debugging and optimizing front-end code to ensure smooth user experiences.",
-        "Participated in code reviews and contributed to improving coding standards within the team."
+        "Developed a large-scale Internal Developer Portal (IDP) using Backstage framework, serving 10,000+ developers.",
+        "Contributed to open-source projects, enhancing the Backstage framework to meet organizational needs.",
+        "Provided technical guidance to a small team and ensured successful project delivery through effective collaboration."
       ],
       "achievements": [
-        "Developing and maintaining web applications using JavaScript, HTML, and CSS. Collaborating with the team to implement new features and fix bugs."
+        "Reduced project setup time from one week to 2 hours by streamlining workflows and automation processes."
       ],
       "skills": [
+        "TypeScript",
         "React",
-        "Tailwind",
-        "GitHub"
+        "NodeJS",
+        "Redis",
+        "PostgreSQL",
+        "Docker",
+        "Gitlab CI",
+        "k8s",
+        "oauth2"
       ]
     },
     {
       "name": "Innovative Solutions",
-      "position": "Junior Software Developer",
+      "position": "Front-end Developer",
       "location_type": "Hybrid",
-      "location": "Wellington, New Zealand",
-      "url": "https://innovativesolutions.com",
-      "startDate": "2022-06-01",
-      "endDate": "2023-06-01",
-      "summary": "Assisting in the development and maintenance of software applications using Python and Django. Collaborating with cross-functional teams to ensure quality and timely delivery of software solutions.",
+      "location": "Ekaterinburg, Russia",
+      "url": "https://ya.ru",
+      "startDate": "2019-04-01",
+      "endDate": "2021-08-01",
+      "summary": "Enhanced a large B2B client account application, improving functionality and user experience.",
       "highlights": [
         "Contributed to a major project that streamlined internal workflows, improving efficiency by 30%"
       ],
       "responsibilities": [
-        "Developed and maintained backend services using Python and Django.",
+        "Rewrote over 30% of legacy JavaScript code into TypeScript, refactoring logic to reduce client-side errors by 1.6x.",
         "Worked closely with front-end developers to integrate user-facing elements with server-side logic.",
-        "Participated in daily stand-ups and bi-weekly sprint planning meetings to ensure alignment with project goals."
+        "Collaborated with the team to develop and refine an internal UI library, ensuring consistency and reusability across projects."
       ],
       "achievements": [
-        "Successfully implemented a feature that enhanced user authentication, improving security measures."
+        "Initiated and delivered a new project that successfully doubled incoming orders."
       ],
       "skills": [
-        "Python",
-        "Django",
-        "SQL",
-        "Git"
+        "React",
+        "Preact",
+        "Webpack",
+        "Redux",
+        "MaterialUI",
+        "Recoil",
+        "SCSS",
+        "CSS-in-JS",
+        "Teamcity"
       ]
     },
     {
-      "name": "Web Agency",
-      "position": "Intern Web Developer",
+      "name": "Robot Vera",
+      "position": "Front-end Developer",
       "location_type": "Remote",
-      "location": "Sydney, Australia",
-      "startDate": "2022-06-01",
-      "endDate": "2022-12-01",
-      "summary": "Assisted in developing client websites and applications. Gained hands-on experience with front-end and back-end technologies.",
-      "highlights": [
-        "Completed several client projects successfully"
+      "location": "Ekaterinburg, Russia",
+      "startDate": "2016-03-01",
+      "endDate": "2019-04-01",
+      "summary": "Developed a large admin panel with complex logic, delivering efficient user workflows.",
+      "responsibilities": [
+        "Integrated Web Speech Recognition API to enable advanced voice interaction.",
+        "Enabled asynchronous audio and video uploads from user input for seamless processing.",
+        "Worked with 3D models and WebGL to deliver interactive and visually dynamic features."
       ],
+      "highlights": [],
       "skills": [
-        "HTML",
-        "CSS"
+        "React",
+        "MobX",
+        "Stylus",
+        "AntDesign",
+        "Blend4Web",
+        "SpeechRecognition"
       ]
     }
   ],
-  "volunteer": [
-    {
-      "organization": "Local Coding Club",
-      "position": "Volunteer",
-      "url": "https://codingclub.com/",
-      "startDate": "2021-01-01",
-      "endDate": "2022-01-01",
-      "summary": "Helped organize coding workshops and mentored new members.",
-      "highlights": [
-        "Awarded 'Volunteer of the Month'"
-      ]
-    }
-  ],
-  "education": [
-    {
-      "institution": "State University",
-      "url": "https://stateuniversity.edu",
-      "area": "Computer Science",
-      "studyType": "Bachelor",
-      "startDate": "2018-09-01",
-      "endDate": "2022-05-01",
-      "score": "3.8",
-      "courses": [
-        "CS101 - Introduction to Computer Science",
-        "CS102 - Data Structures"
-      ]
-    },
-    {
-      "institution": "Tech Institute",
-      "url": "https://techinstitute.edu",
-      "area": "Software Engineering",
-      "studyType": "Master",
-      "startDate": "2020-09-01",
-      "endDate": "2022-12-01",
-      "score": "3.9",
-      "courses": [
-        "SE201 - Advanced Software Development",
-        "SE202 - Software Architecture and Design"
-      ]
-    },
-    {
-      "institution": "City College",
-      "url": "https://citycollege.edu",
-      "area": "Information Technology",
-      "studyType": "Associate Degree",
-      "startDate": "2017-01-01",
-      "endDate": "2019-12-01",
-      "score": "3.7",
-      "courses": [
-        "IT101 - Networking Fundamentals",
-        "IT102 - Database Management Systems"
-      ]
-    }
-  ],
-  "certificates": [
-    {
-      "name": "Full Stack Web Development",
-      "date": "2023-05-01",
-      "issuer": "Online University",
-      "url": "https://onlineuniversity.com/certificates/fullstack"
-    }
-  ],
+  "volunteer": [],
+  "education": [],
+  "certificates": [],
   "skills": [
     {
-      "name": "Figma",
+      "name": "React",
       "level": "Expert",
       "keywords": [
-        "Design",
+        "Web Development",
+        "Frontend",
+        "JavaScript Library",
         "UI"
       ]
     },
     {
-      "name": "Gitlab",
-      "level": "Intermediate",
+      "name": "Redux",
+      "level": "Expert",
       "keywords": [
-        "Version Control",
-        "Collaboration",
-        "Source Code"
+        "State Management",
+        "Frontend",
+        "Web Development"
       ]
     },
     {
-      "name": "HTML",
-      "level": "Intermediate",
+      "name": "MaterialUI",
+      "level": "Expert",
       "keywords": [
-        "Web Development",
+        "UI",
+        "CSS Framework",
         "Frontend"
       ]
     },
     {
-      "name": "CSS",
-      "level": "Intermediate",
+      "name": "SCSS",
+      "level": "Expert",
       "keywords": [
-        "Web Development",
+        "CSS Preprocessor",
         "Frontend",
-        "Responsive Design"
+        "Web Development"
+      ]
+    },
+    {
+      "name": "CSS-in-JS",
+      "level": "Expert",
+      "keywords": [
+        "JavaScript Styling",
+        "Frontend",
+        "CSS"
+      ]
+    },
+    {
+      "name": "Stylus",
+      "level": "Expert",
+      "keywords": [
+        "CSS Preprocessor",
+        "Frontend",
+        "Web Development"
       ]
     },
     {
       "name": "JavaScript",
-      "level": "Intermediate",
+      "level": "Expert",
       "keywords": [
         "Web Development",
         "Frontend",
@@ -212,43 +187,86 @@
       ]
     },
     {
-      "name": "Tailwind",
+      "name": "NodeJS",
       "level": "Intermediate",
       "keywords": [
+        "Backend Development",
         "Web Development",
-        "Frontend",
-        "CSS Framework",
-        "Responsive Design"
+        "Server-side JavaScript"
       ]
     },
     {
       "name": "TypeScript",
       "level": "Intermediate",
       "keywords": [
+        "JavaScript Superset",
         "Web Development",
         "Frontend",
-        "Backend",
-        "JavaScript Superset"
+        "Backend"
       ]
     },
     {
-      "name": "Node",
+      "name": "Redis",
       "level": "Intermediate",
       "keywords": [
-        "Web Development",
-        "Backend",
-        "JavaScript",
-        "Server"
+        "Caching",
+        "Databases",
+        "Backend"
       ]
     },
     {
-      "name": "MySQL",
+      "name": "PostgreSQL",
       "level": "Intermediate",
       "keywords": [
         "Databases",
         "SQL",
-        "Data Storage",
+        "Backend",
+        "Data Storage"
+      ]
+    },
+    {
+      "name": "Docker",
+      "level": "Intermediate",
+      "keywords": [
+        "Containerization",
+        "DevOps",
         "Backend"
+      ]
+    },
+    {
+      "name": "GitLab-CI",
+      "level": "Intermediate",
+      "keywords": [
+        "CI/CD",
+        "Automation",
+        "Version Control"
+      ]
+    },
+    {
+      "name": "Kubernetes (k8s)",
+      "level": "Intermediate",
+      "keywords": [
+        "Container Orchestration",
+        "DevOps",
+        "Cloud Infrastructure"
+      ]
+    },
+    {
+      "name": "Helm",
+      "level": "Intermediate",
+      "keywords": [
+        "Package Manager",
+        "Kubernetes",
+        "DevOps"
+      ]
+    },
+    {
+      "name": "OAuth2",
+      "level": "Intermediate",
+      "keywords": [
+        "Authentication",
+        "Authorization",
+        "Security"
       ]
     },
     {
@@ -266,99 +284,39 @@
       "keywords": [
         "Version Control",
         "Collaboration",
-        "Source Code",
-        "Git"
+        "Source Code"
       ]
     },
     {
-      "name": "Next.js",
-      "level": "Beginner",
-      "keywords": [
-        "Web Development",
-        "Frontend",
-        "React Framework",
-        "SSR",
-        "Static Generation"
-      ]
-    },
-    {
-      "name": "React",
+      "name": "Golang",
       "level": "Intermediate",
       "keywords": [
-        "Web Development",
-        "Frontend",
-        "JavaScript Library",
-        "UI"
+        "Backend Development",
+        "Systems Programming",
+        "Web Development"
       ]
-    }
-  ],
-  "languages": [
-    {
-      "language": "English",
-      "fluency": "Native speaker"
     },
     {
-      "language": "Spanish",
-      "fluency": "Intermediate"
-    }
-  ],
-  "interests": [
-    {
-      "name": "Technology",
+      "name": "TDD",
+      "level": "Intermediate",
       "keywords": [
-        "AI",
-        "Blockchain"
+        "Testing",
+        "Agile Development",
+        "Best Practices"
+      ]
+    },
+    {
+      "name": "DDD",
+      "level": "Intermediate",
+      "keywords": [
+        "Design Patterns",
+        "Software Architecture",
+        "Backend"
       ]
     }
   ],
-  "references": [
-    {
-      "name": "Jane Smith",
-      "reference": "Reference…"
-    }
-  ],
-  "projects": [
-    {
-      "name": "Personal Portfolio",
-      "isActive": false,
-      "description": "A personal portfolio website to showcase my projects and skills.",
-      "highlights": [
-        "Built with React and Tailwind CSS",
-        "Includes a blog and contact form"
-      ],
-      "url": "https://johndoe.dev",
-      "github": "https://github.com"
-    },
-    {
-      "name": "Weather App",
-      "isActive": true,
-      "description": "A web application that provides weather information for any location.",
-      "highlights": [
-        "Built with JavaScript and OpenWeatherMap API",
-        "Responsive design"
-      ],
-      "url": "https://weatherapp.com"
-    },
-    {
-      "name": "Task Manager",
-      "isActive": true,
-      "description": "A simple task management app to keep track of daily tasks.",
-      "highlights": [
-        "Built with Node.js and MongoDB",
-        "User authentication and CRUD operations"
-      ],
-      "url": "https://taskmanager.com",
-      "github": "https://github.com"
-    },
-    {
-      "name": "E-commerce Site",
-      "isActive": false,
-      "description": "An online store built with Next.js and Stripe for payment processing.",
-      "highlights": [
-        "Product management and shopping cart functionality",
-        "Secure payment integration"
-      ],
-      "url": "https://ecommerce.com"
-    }
-  ]
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
 }
