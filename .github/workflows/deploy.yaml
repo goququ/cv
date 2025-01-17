@@ -3,11 +3,10 @@ name: Deploy to GitHub Pages
 on:
   push:
     branches:
-      - main # Adjust this to your default branch
-  pull_request:
+      - main # Adjust this to your default branch name
 
 permissions:
-  contents: read
+  contents: write # Ensure write permissions for deployment
 
 jobs:
   deploy:
@@ -15,22 +14,28 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
+      # Step 1: Checkout the repository code
       - name: Checkout code
         uses: actions/checkout@v3
 
-      - name: Install Node.js
+      # Step 2: Set up Node.js
+      - name: Set up Node.js
         uses: actions/setup-node@v3
         with:
-          node-version: 18 # Use the version specified in your project, if applicable
+          node-version: 18 # Use the Node.js version you want to use
+          cache: "npm" # Cache node_modules to speed up builds
 
+      # Step 3: Install dependencies
       - name: Install dependencies
         run: npm ci
 
+      # Step 4: Build the Astro project
       - name: Build the project
-        run: npm run build # Ensure your `package.json` includes the `build` script
+        run: npm run build # Ensure this matches your build script in package.json
 
+      # Step 5: Deploy to GitHub Pages
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v3
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: dist # Replace with the output directory of your Astro build
+          github_token: ${{ secrets.GITHUB_TOKEN }} # Use GitHub-provided token
+          publish_dir: dist # Directory with the built site
