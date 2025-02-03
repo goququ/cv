@@ -38,9 +38,7 @@
       "startDate": "2021-08-01",
       "endDate": null,
       "summary": "Developed a Backstage-based IDP, cut project setup time to 2 hours, led a team, and delivered complex projects independently.",
-      "highlights": [
-        "Improved website performance by optimizing code"
-      ],
+      "highlights": ["Improved website performance by optimizing code"],
       "responsibilities": [
         "Developed a large-scale Internal Developer Portal (IDP) using Backstage framework, serving 10,000+ developers.",
         "Contributed to open-source projects, enhancing the Backstage framework to meet organizational needs.",
@@ -62,7 +60,7 @@
       ]
     },
     {
-      "name": "Innovative Solutions",
+      "name": "Yandex",
       "position": "Front-end Developer",
       "location_type": "Hybrid",
       "location": "Ekaterinburg, Russia",
@@ -124,67 +122,37 @@
     {
       "name": "React",
       "level": "Expert",
-      "keywords": [
-        "Web Development",
-        "Frontend",
-        "JavaScript Library",
-        "UI"
-      ]
+      "keywords": ["Web Development", "Frontend", "JavaScript Library", "UI"]
     },
     {
       "name": "Redux",
       "level": "Expert",
-      "keywords": [
-        "State Management",
-        "Frontend",
-        "Web Development"
-      ]
+      "keywords": ["State Management", "Frontend", "Web Development"]
     },
     {
       "name": "MaterialUI",
       "level": "Expert",
-      "keywords": [
-        "UI",
-        "CSS Framework",
-        "Frontend"
-      ]
+      "keywords": ["UI", "CSS Framework", "Frontend"]
     },
     {
       "name": "SCSS",
       "level": "Expert",
-      "keywords": [
-        "CSS Preprocessor",
-        "Frontend",
-        "Web Development"
-      ]
+      "keywords": ["CSS Preprocessor", "Frontend", "Web Development"]
     },
     {
       "name": "CSS-in-JS",
       "level": "Expert",
-      "keywords": [
-        "JavaScript Styling",
-        "Frontend",
-        "CSS"
-      ]
+      "keywords": ["JavaScript Styling", "Frontend", "CSS"]
     },
     {
       "name": "Stylus",
       "level": "Expert",
-      "keywords": [
-        "CSS Preprocessor",
-        "Frontend",
-        "Web Development"
-      ]
+      "keywords": ["CSS Preprocessor", "Frontend", "Web Development"]
     },
     {
       "name": "JavaScript",
       "level": "Expert",
-      "keywords": [
-        "Web Development",
-        "Frontend",
-        "Backend",
-        "Fullstack"
-      ]
+      "keywords": ["Web Development", "Frontend", "Backend", "Fullstack"]
     },
     {
       "name": "NodeJS",
@@ -208,84 +176,47 @@
     {
       "name": "Redis",
       "level": "Intermediate",
-      "keywords": [
-        "Caching",
-        "Databases",
-        "Backend"
-      ]
+      "keywords": ["Caching", "Databases", "Backend"]
     },
     {
       "name": "PostgreSQL",
       "level": "Intermediate",
-      "keywords": [
-        "Databases",
-        "SQL",
-        "Backend",
-        "Data Storage"
-      ]
+      "keywords": ["Databases", "SQL", "Backend", "Data Storage"]
     },
     {
       "name": "Docker",
       "level": "Intermediate",
-      "keywords": [
-        "Containerization",
-        "DevOps",
-        "Backend"
-      ]
+      "keywords": ["Containerization", "DevOps", "Backend"]
     },
     {
       "name": "GitLab-CI",
       "level": "Intermediate",
-      "keywords": [
-        "CI/CD",
-        "Automation",
-        "Version Control"
-      ]
+      "keywords": ["CI/CD", "Automation", "Version Control"]
     },
     {
       "name": "Kubernetes (k8s)",
       "level": "Intermediate",
-      "keywords": [
-        "Container Orchestration",
-        "DevOps",
-        "Cloud Infrastructure"
-      ]
+      "keywords": ["Container Orchestration", "DevOps", "Cloud Infrastructure"]
     },
     {
       "name": "Helm",
       "level": "Intermediate",
-      "keywords": [
-        "Package Manager",
-        "Kubernetes",
-        "DevOps"
-      ]
+      "keywords": ["Package Manager", "Kubernetes", "DevOps"]
     },
     {
       "name": "OAuth2",
       "level": "Intermediate",
-      "keywords": [
-        "Authentication",
-        "Authorization",
-        "Security"
-      ]
+      "keywords": ["Authentication", "Authorization", "Security"]
     },
     {
       "name": "Git",
       "level": "Intermediate",
-      "keywords": [
-        "Version Control",
-        "Collaboration",
-        "Source Code"
-      ]
+      "keywords": ["Version Control", "Collaboration", "Source Code"]
     },
     {
       "name": "GitHub",
       "level": "Intermediate",
-      "keywords": [
-        "Version Control",
-        "Collaboration",
-        "Source Code"
-      ]
+      "keywords": ["Version Control", "Collaboration", "Source Code"]
     },
     {
       "name": "Golang",
@@ -299,20 +230,12 @@
     {
       "name": "TDD",
       "level": "Intermediate",
-      "keywords": [
-        "Testing",
-        "Agile Development",
-        "Best Practices"
-      ]
+      "keywords": ["Testing", "Agile Development", "Best Practices"]
     },
     {
       "name": "DDD",
       "level": "Intermediate",
-      "keywords": [
-        "Design Patterns",
-        "Software Architecture",
-        "Backend"
-      ]
+      "keywords": ["Design Patterns", "Software Architecture", "Backend"]
     }
   ],
   "languages": [],
